@@ -1,0 +1,2 @@
+create database loancheck_user_mngmt;
+use loancheck_user_mngmt;
